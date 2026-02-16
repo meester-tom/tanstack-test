@@ -38,7 +38,7 @@ function HomePage() {
                     {/* Main title */}
                     <h1 className="font-display text-6xl md:text-8xl font-bold text-cream mb-6 leading-tight">
                         Nova College
-                        <span className="block text-gold italic">Hi 24AB!</span>
+                        <span className="block text-gold italic">Hi 25F!</span>
                     </h1>
 
                     <p className="text-xl md:text-2xl text-cream/70 font-body max-w-3xl mx-auto mb-10 leading-relaxed">
